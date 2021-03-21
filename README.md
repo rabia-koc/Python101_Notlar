@@ -1,5 +1,7 @@
 # Python101_Notlar
 
+![pyhton logo](https://user-images.githubusercontent.com/73841520/111918528-866dc380-8a96-11eb-80f4-24c87d647d25.jpeg)
+
 Döküman İçeriği;
 
 * Veri Tipleri
