@@ -25,5 +25,6 @@ Döküman İçeriği;
 
 Yararlanılan Kaynaklar;
 
+* https://www.sadikturan.com/python-dersleri
 * https://python-istihza.yazbel.com
 * https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/
