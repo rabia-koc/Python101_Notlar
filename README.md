@@ -1,11 +1,10 @@
 # Python101_Notlar
 
-![pyhton logo](https://user-images.githubusercontent.com/73841520/111918528-866dc380-8a96-11eb-80f4-24c87d647d25.jpeg)
-
+                                                                                
 Döküman İçeriği;
 
 * Veri Tipleri
-* Değişken Tanımlama
+* Değişken Tanımlama                                        ![python_logoN](https://user-images.githubusercontent.com/73841520/111918597-f419ef80-8a96-11eb-819f-f85b388e2041.png)
 * Escape İfadeler
 * Operatörler
 * Karar Yapıları
