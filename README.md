@@ -2,9 +2,9 @@
 
                                                                                 
 Döküman İçeriği;
-
+                                          ![python_logoN](https://user-images.githubusercontent.com/73841520/111918597-f419ef80-8a96-11eb-819f-f85b388e2041.png)
 * Veri Tipleri
-* Değişken Tanımlama                                        ![python_logoN](https://user-images.githubusercontent.com/73841520/111918597-f419ef80-8a96-11eb-819f-f85b388e2041.png)
+* Değişken Tanımlama                                        
 * Escape İfadeler
 * Operatörler
 * Karar Yapıları
