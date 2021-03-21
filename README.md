@@ -8,7 +8,7 @@ Döküman İçeriği;
 * Değişken Tanımlama                                        
 * Escape İfadeler
 * Operatörler
-* Karar Yapıları
+* If Statement(If, Elif, Else)
 * Döngüler
 * Listeler
 * Demetler
